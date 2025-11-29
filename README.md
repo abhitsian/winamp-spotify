@@ -33,16 +33,6 @@
 
 ## Inspiration
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=suRDUFpsHus">
-    <img src="https://markdown-videos-api.jorgez.me/youtube/suRDUFpsHus" alt="Mad Men - The Carousel" width="600" />
-  </a>
-</p>
-
-<p align="center">
-  <em>Click to watch: <strong>Mad Men — The Carousel</strong></em>
-</p>
-
 Nostalgia is a powerful emotion. It can transport you back in time, make you feel things you haven't felt in years, and remind you of who you once were.
 
 I was watching Mad Men when I stumbled upon [The Carousel scene](https://www.youtube.com/watch?v=suRDUFpsHus) — and it hit me. That's exactly what I wanted to build. A time machine for 90s kids.
