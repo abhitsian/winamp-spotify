@@ -11,8 +11,7 @@
 </p>
 
 <p align="center">
-  <strong>A time machine for 90s kids.</strong><br/>
-  Taking you back to a place where you know you are loved.
+  <strong>A time machine for 90s kids.</strong>
 </p>
 
 <p align="center">
