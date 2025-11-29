@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
+  <a href="#inspiration">Inspiration</a> •
   <a href="#features">Features</a> •
   <a href="#quick-start">Quick Start</a> •
   <a href="#spotify-setup">Spotify Setup</a> •
-  <a href="#usage">Usage</a> •
   <a href="#troubleshooting">Troubleshooting</a>
 </p>
 
@@ -31,26 +31,43 @@
 
 ---
 
+## Inspiration
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=suRDUFpsHus">
+    <img src="https://img.youtube.com/vi/suRDUFpsHus/maxresdefault.jpg" alt="Mad Men - The Carousel" width="600" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=suRDUFpsHus"><strong>▶ Watch: Mad Men — The Carousel</strong></a>
+</p>
+
+> *"Nostalgia — it's delicate, but potent. Teddy told me that in Greek, nostalgia literally means 'the pain from an old wound.' It's a twinge in your heart far more powerful than memory alone."*
+>
+> *"This device isn't a spaceship. It's a time machine. It goes backwards, forwards. It takes us to a place where we ache to go again."*
+>
+> *"It's not called 'The Wheel.' It's called 'The Carousel.' It lets us travel the way a child travels. Around and around, and back home again... to a place where we know we are loved."*
+>
+> — Don Draper, Mad Men
+
+This project is an ode to the 90s kids — a digital time machine built to transport you back to an era of dial-up modems, burned CDs, and carefully curated MP3 collections.
+
+Winamp wasn't just software. It was a ritual. The green LED glow illuminating your face at 2 AM. The spectrum analyzer dancing to your favorite songs. The skins you spent hours customizing instead of doing homework.
+
+For those of us who grew up in that era, music wasn't just something you streamed — it was something you *collected*, organized, and cherished. Every track had a story. Every playlist was a time capsule.
+
+**This project exists because some of us still feel that twinge — that ache to go back. Not to relive the past, but to feel it again, just for a moment.**
+
+*Around and around, and back home again.*
+
+---
+
 ## Features
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  ▓▓▓ WINAMP SPOTIFY ▓▓▓                          _ □ ×     │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   ┌──────┐  ┌─ 3:42 ─┐  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓               │
-│   │ ART  │  └────────┘  ░░▓▓▓▓░░▓▓▓░▓▓▓▓░▓▓░               │
-│   │      │              ▓▓▓▓░░▓▓░▓▓▓▓░▓▓▓▓▓▓               │
-│   └──────┘                                                  │
-│                                                             │
-│   ═══════════════════════════════════○══════════           │
-│                                                             │
-│   [ |◀◀ ] [ ▶ ] [ ■ ] [ ▶▶| ]  [ ▲ ]     VOL ═══○════      │
-│                                                             │
-│            [ EQ ]  [ PL ]  [ MINI ]                         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="screenshot.png" alt="Winamp Spotify Screenshot" width="350" />
+</p>
 
 | Feature | Description |
 |---------|-------------|
@@ -249,30 +266,6 @@ The Web Playback SDK only works on `localhost` or HTTPS. When accessing via `127
 ## License
 
 MIT
-
----
-
-## Inspiration
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=suRDUFpsHus">
-    <img src="https://img.youtube.com/vi/suRDUFpsHus/maxresdefault.jpg" alt="Mad Men - The Carousel" width="500" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=suRDUFpsHus"><strong>Watch: Mad Men — The Carousel</strong></a>
-</p>
-
-This project is an ode to the 90s kids — a digital time machine built to transport you back to an era of dial-up modems, burned CDs, and carefully curated MP3 collections.
-
-Winamp wasn't just software. It was a ritual. The green LED glow illuminating your face at 2 AM. The spectrum analyzer dancing to your favorite songs. The skins you spent hours customizing instead of doing homework.
-
-For those of us who grew up in that era, music wasn't just something you streamed — it was something you *collected*, organized, and cherished. Every track had a story. Every playlist was a time capsule.
-
-This project exists because some of us still feel that twinge — that ache to go back. Not to relive the past, but to feel it again, just for a moment.
-
-*Around and around, and back home again.*
 
 ---
 
