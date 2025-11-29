@@ -43,15 +43,15 @@
   <em>Click to watch: <strong>Mad Men — The Carousel</strong></em>
 </p>
 
-This project is an ode to the 90s kids — a digital time machine built to transport you back to an era of dial-up modems, burned CDs, and carefully curated MP3 collections.
+Nostalgia is a powerful emotion. It can transport you back in time, make you feel things you haven't felt in years, and remind you of who you once were.
 
-Winamp wasn't just software. It was a ritual. The green LED glow illuminating your face at 2 AM. The spectrum analyzer dancing to your favorite songs. The skins you spent hours customizing instead of doing homework.
+I was watching Mad Men when I stumbled upon [The Carousel scene](https://www.youtube.com/watch?v=suRDUFpsHus) — and it hit me. That's exactly what I wanted to build. A time machine for 90s kids.
+
+This project is an ode to that era — dial-up modems, burned CDs, and carefully curated MP3 collections. Winamp wasn't just software. It was a ritual. The green LED glow illuminating your face at 2 AM. The spectrum analyzer dancing to your favorite songs. The skins you spent hours customizing instead of doing homework.
 
 For those of us who grew up in that era, music wasn't just something you streamed — it was something you *collected*, organized, and cherished. Every track had a story. Every playlist was a time capsule.
 
 This project exists because some of us still feel that twinge — that ache to go back. Not to relive the past, but to feel it again, just for a moment.
-
-*It's not called the Wheel. It's called the Carousel. It lets us travel the way a child travels — around and around, and back home again, to a place where we know we are loved.*
 
 ---
 
