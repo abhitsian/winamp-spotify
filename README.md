@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <strong>It really whips the llama's ass!</strong>
+  <em>A nostalgic tribute to the classic media player</em>
 </p>
 
 <p align="center">
@@ -257,5 +257,5 @@ MIT
 </p>
 
 <p align="center">
-  <strong>🦙 It still whips the llama's ass. 🦙</strong>
+  <strong>Made with nostalgia</strong>
 </p>
