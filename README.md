@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/8b/Winamp_logo.svg" alt="Winamp" width="80" />
-</p>
-
 <h1 align="center">
   <code>WINAMP SPOTIFY</code>
 </h1>
