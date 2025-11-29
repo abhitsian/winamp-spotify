@@ -35,12 +35,12 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=suRDUFpsHus">
-    <img src="https://img.youtube.com/vi/suRDUFpsHus/maxresdefault.jpg" alt="Mad Men - The Carousel" width="600" />
+    <img src="https://markdown-videos-api.jorgez.me/youtube/suRDUFpsHus" alt="Mad Men - The Carousel" width="600" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=suRDUFpsHus"><strong>▶ Watch: Mad Men — The Carousel</strong></a>
+  <em>Click to watch: <strong>Mad Men — The Carousel</strong></em>
 </p>
 
 > *"Nostalgia — it's delicate, but potent. Teddy told me that in Greek, nostalgia literally means 'the pain from an old wound.' It's a twinge in your heart far more powerful than memory alone."*
