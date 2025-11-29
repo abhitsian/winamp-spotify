@@ -7,12 +7,12 @@
 </h1>
 
 <p align="center">
-  <em>A nostalgic tribute to the classic media player</em>
+  <em>"Nostalgia — it's delicate, but potent."</em>
 </p>
 
 <p align="center">
-  A nostalgia-inducing Winamp 2.x clone that streams from Spotify.<br/>
-  Built with Next.js, Electron, and way too much love for the late 90s.
+  A time machine disguised as a music player.<br/>
+  Taking you back to a place where you know you are loved.
 </p>
 
 <p align="center">
@@ -252,10 +252,20 @@ MIT
 
 ---
 
+## Inspiration
+
+This project was inspired by the [Carousel scene](https://www.youtube.com/watch?v=suRDUFpsHus) from Mad Men — Don Draper's meditation on how technology can become a time machine, transporting us back to moments we ache to relive.
+
+Winamp wasn't just software. It was the soundtrack to late nights, first loves, and dial-up connections. The green LED glow. The spectrum analyzer dancing. The skins you spent hours customizing.
+
+This is an attempt to bring that feeling back — not just the interface, but the *emotion* of a simpler digital era.
+
+---
+
 <p align="center">
   <sub>Original Winamp by Nullsoft • Spotify is a trademark of Spotify AB</sub>
 </p>
 
 <p align="center">
-  <strong>Made with nostalgia</strong>
+  <em>Around and around, and back home again.</em>
 </p>
