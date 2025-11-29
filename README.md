@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  A time machine disguised as a music player.<br/>
+  <strong>A time machine for 90s kids.</strong><br/>
   Taking you back to a place where you know you are loved.
 </p>
 
@@ -254,11 +254,25 @@ MIT
 
 ## Inspiration
 
-This project was inspired by the [Carousel scene](https://www.youtube.com/watch?v=suRDUFpsHus) from Mad Men — Don Draper's meditation on how technology can become a time machine, transporting us back to moments we ache to relive.
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=suRDUFpsHus">
+    <img src="https://img.youtube.com/vi/suRDUFpsHus/maxresdefault.jpg" alt="Mad Men - The Carousel" width="500" />
+  </a>
+</p>
 
-Winamp wasn't just software. It was the soundtrack to late nights, first loves, and dial-up connections. The green LED glow. The spectrum analyzer dancing. The skins you spent hours customizing.
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=suRDUFpsHus"><strong>Watch: Mad Men — The Carousel</strong></a>
+</p>
 
-This is an attempt to bring that feeling back — not just the interface, but the *emotion* of a simpler digital era.
+This project is an ode to the 90s kids — a digital time machine built to transport you back to an era of dial-up modems, burned CDs, and carefully curated MP3 collections.
+
+Winamp wasn't just software. It was a ritual. The green LED glow illuminating your face at 2 AM. The spectrum analyzer dancing to your favorite songs. The skins you spent hours customizing instead of doing homework.
+
+For those of us who grew up in that era, music wasn't just something you streamed — it was something you *collected*, organized, and cherished. Every track had a story. Every playlist was a time capsule.
+
+This project exists because some of us still feel that twinge — that ache to go back. Not to relive the past, but to feel it again, just for a moment.
+
+*Around and around, and back home again.*
 
 ---
 
@@ -267,5 +281,5 @@ This is an attempt to bring that feeling back — not just the interface, but th
 </p>
 
 <p align="center">
-  <em>Around and around, and back home again.</em>
+  <strong>For the 90s kids. For the memories. For the music.</strong>
 </p>
